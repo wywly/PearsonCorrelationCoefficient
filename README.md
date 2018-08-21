@@ -32,4 +32,5 @@ linear correlation, 0 is no linear correlation, and -1 is total negative linear 
 References
 
 [1]Pearson correlation coefficient, wikipedia, https://en.wikipedia.org/wiki/Pearson_correlation_coefficient
+
 [2]Hinkle DE, Wiersma W, Jurs SG. Applied Statistics for the Behavioral Sciences. 5th ed.Boston: Houghton Mifflin; 2003.

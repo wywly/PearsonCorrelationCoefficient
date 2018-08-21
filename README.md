@@ -27,7 +27,7 @@ linear correlation, 0 is no linear correlation, and -1 is total negative linear 
 
 * Author de Freitas, P.C.P
 
-[Read more](https://github.com/paulodefreitas/PearsonCorrelationCoefficient/blob/master/Pearson%20correlation%20coefficient.pdf)
+* [Read more](https://github.com/paulodefreitas/PearsonCorrelationCoefficient/blob/master/Pearson%20correlation%20coefficient.pdf)
 
 References
 

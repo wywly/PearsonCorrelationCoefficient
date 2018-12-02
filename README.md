@@ -19,9 +19,12 @@ linear correlation, 0 is no linear correlation, and -1 is total negative linear 
 
 ## Features and tools
 
-* C++ Containers library
-* C++ Standard library header
-* Visual Studio 2017
+* C++ Language
+  * C++ Containers library
+  * C++ Standard library header
+  * Visual Studio 2017
+* JavaScript
+  * Node.js v10.14.0
 
 ## Other informations
 
